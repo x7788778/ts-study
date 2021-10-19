@@ -11,7 +11,7 @@ const getTotal2:(one:number,two:number)=>Number = (one:number,two:number)=> {
     return one + two
 }
 // void 代表 没有返回值
-function foo():void {
+function foo2():void {
     console.log(1)
 }
 //never 代表执行不完
