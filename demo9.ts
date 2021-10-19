@@ -131,9 +131,19 @@
 /**
  * 抽象类
  * 与父类相似，需要继承
- * 继承抽象类的类必须实现抽象方法
+ * 继承抽象类的类 必须实现抽象类中声明的抽象方法
  */
 
+//抽象父类只剩吗一个方法
+abstract class Girl {
+    abstract skill():any
+}
+// 子类来实现抽象类业务逻辑
+class Waiter extends Girl {
+    skill(){
+        console.log('大爷，请喝水')
+    }
+}
 
 
 
