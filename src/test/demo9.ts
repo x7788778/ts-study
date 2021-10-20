@@ -135,11 +135,11 @@
  */
 
 //抽象父类只剩吗一个方法
-abstract class Girl {
+abstract class Girl2 {
     abstract skill():any
 }
 // 子类来实现抽象类业务逻辑
-class Waiter extends Girl {
+class Waiter4 extends Girl {
     skill(){
         console.log('大爷，请喝水')
     }

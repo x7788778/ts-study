@@ -4,7 +4,7 @@
  *
  */
 //场景，会anjiao是技士，不会就是服务元
-interface Waiter {
+interface Waiter1 {
     anjiao:boolean;
     say:()=>{}
 }
