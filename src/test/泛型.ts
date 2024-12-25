@@ -1,3 +1,11 @@
+/*
+ * @Date: 2021-10-20 01:22:17
+ * @LastEditors: zhaogang 156606672@qq.com
+ * @LastEditTime: 2022-12-15 23:54:07
+ * @FilePath: /tsss-study/src/test/泛型.ts
+ * @name: filename
+ * @description: description
+ */
 /**
  * 泛型
  */
@@ -11,7 +19,7 @@
 function join<T>(first:T, second:number) {
     return `${first}+${second}`    
 }
-//<type>泛型指定参数定义类型
+//<type>泛型指定参数定义类型，即使用时再确定类型
 join<string>('11',1)
 
 //属组泛型
