@@ -1,7 +1,7 @@
 /*
  * @Date: 2021-10-20 01:22:17
  * @LastEditors: zhaogang 156606672@qq.com
- * @LastEditTime: 2024-12-27 23:40:24
+ * @LastEditTime: 2024-12-27 23:50:32
  * @FilePath: /tsss-study/src/test/泛型.ts
  * @name: filename
  * @description: description
