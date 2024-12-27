@@ -1,13 +1,13 @@
 /*
  * @Date: 2021-10-20 01:22:17
  * @LastEditors: zhaogang 156606672@qq.com
- * @LastEditTime: 2022-12-15 23:54:07
+ * @LastEditTime: 2024-12-27 23:40:24
  * @FilePath: /tsss-study/src/test/泛型.ts
  * @name: filename
  * @description: description
  */
 /**
- * 泛型
+ * 泛型  
  */
 
 // function join(first:string|number, second:string|Number) {
